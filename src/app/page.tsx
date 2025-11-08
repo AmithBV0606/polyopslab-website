@@ -1,10 +1,9 @@
-import { Button } from "@/components/ui/button";
+import { ThemeToggle } from "@/components/theme-toggle";
 
 export default function Home() {
   return (
-    <div className="bg-background text-foreground">
-      <p>Hello World</p>
-      <Button variant={"outline"}>Click Me</Button>
+    <div className="w-full h-screen flex justify-center items-center">
+      <ThemeToggle />
     </div>
   );
 }
