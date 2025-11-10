@@ -17,6 +17,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "alt.tailus.io",
       },
+      {
+        protocol: "https",
+        hostname: "randomuser.me",
+      },
     ],
   },
 };
