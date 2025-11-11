@@ -10,7 +10,7 @@ const menuItems = [
   { name: "Solution", href: "#solution" },
   { name: "Team", href: "#team" },
   { name: "Testimonials", href: "#testimonials" },
-  { name: "Pricing", href: "#link" },
+  { name: "Pricing", href: "#pricing" },
   { name: "About", href: "#link" },
 ];
 
